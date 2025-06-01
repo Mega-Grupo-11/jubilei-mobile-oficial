@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'login.dart';
-import 'utils/image_utils.dart';
+import 'image_utils.dart';
 
 class RegisterScreen extends StatefulWidget {
   @override

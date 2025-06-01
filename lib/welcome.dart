@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'task.dart';
-import 'utils/image_utils.dart';
+import 'image_utils.dart';
 
 class WelcomeScreen extends StatefulWidget {
   @override
